@@ -4,3 +4,4 @@
 ZCZC W00 100 L02 Attending scheduled lecture
 ZCZC W00 20 L03 Setting up github
 ZCZC W00 20 L04 setting up github page and log txt file
+ZCZC W00 40 L10 Reading Chapter 1 of the textbook
