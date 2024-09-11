@@ -16,3 +16,7 @@ ZCZC W01 120 L05 Studying for Quiz01
 ZCZC W01 20 L05 Doing Quiz01
 ZCZC W01 90 L11 Completing the rest of Assignment 1
 ZCZC W02 100 L02 Attending Scheduled Lecture
+ZCZC W02 100 L02 Attending Q&A Lecture
+ZCZC W02 60 L64 Helping friends do OS pop quiz
+ZCZC W02 50 L12 Doing assignment 2
+ZCZC W02 90 L05 Studying for Quiz02
