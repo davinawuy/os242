@@ -20,3 +20,6 @@ ZCZC W02 100 L02 Attending Q&A Lecture
 ZCZC W02 60 L64 Helping friends do OS pop quiz
 ZCZC W02 50 L12 Doing assignment 2
 ZCZC W02 90 L05 Studying for Quiz02
+ZCZC W02 100 L05 Studying for Quiz02
+ZCZC W02 20 L05 Doing Quiz02
+ZCZC W02 30 L64 Helping friend setup their assignment script
