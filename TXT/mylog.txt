@@ -23,3 +23,4 @@ ZCZC W02 90 L05 Studying for Quiz02
 ZCZC W02 100 L05 Studying for Quiz02
 ZCZC W02 20 L05 Doing Quiz02
 ZCZC W02 30 L64 Helping friend setup their assignment script
+ZCZC W02 45 L64 Helping a friend fix their pop quiz
