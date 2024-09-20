@@ -24,3 +24,12 @@ ZCZC W02 100 L05 Studying for Quiz02
 ZCZC W02 20 L05 Doing Quiz02
 ZCZC W02 30 L64 Helping friend setup their assignment script
 ZCZC W02 45 L64 Helping a friend fix their pop quiz
+ZCZC W03 100 L02 Attending Q&A Lecture
+ZCZC W03 40 L64 Helping friends do OS pop quiz
+ZCZC W03 90 L13 Doing assignment 3
+ZCZC W03 90 L05 Studying for Quiz02
+ZCZC W03 40 L40 Learning how to format C properly in vi
+ZCZC W03 70 L62 Understanding how to properly manage VM backups
+ZCZC W03 50 L64 Helping a friend mount their virtual disk to their VM
+ZCZC W03 30 L25 Creating OS pop quiz 3 quiz
+ZCZC W03 40 L07 GSGS the demos to understand the demos
