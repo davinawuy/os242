@@ -33,3 +33,11 @@ ZCZC W03 70 L62 Understanding how to properly manage VM backups
 ZCZC W03 50 L64 Helping a friend mount their virtual disk to their VM
 ZCZC W03 30 L25 Creating OS pop quiz 3 quiz
 ZCZC W03 40 L07 GSGS the demos to understand the demos
+ZCZC W04 100 L02 Attending normal Lecture
+ZCZC W04 100 L02 Attending Q&A Lecture
+ZCZC W04 120 L14 Doing Assignment 4
+ZCZC W04 40 L05 Studying for Quiz 3
+ZCZC W04 20 L05 Doing Quiz 3
+ZCZC W04 40 L09 Doing Pop-Quiz 4
+ZCZC W04 30 L64 Helping a Friend with their pop quiz setup
+ZCZC W04 80 L32 Understanding how to transfer files from Host system to VM
