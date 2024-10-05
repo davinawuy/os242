@@ -15,6 +15,8 @@ permalink: LINKS/
 * [How to Add Additional Hard Drive in VirtualBox](https://www.youtube.com/watch?v=XmpFXe3Opws) --- This video provides a step-by-step guide on adding an extra hard drive in VirtualBox. It helps me set up and manage storage for virtual machines, a useful guide for the assignments.
 * [Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0) --- This video provides a comprehensive guide to mastering pointers in C. It helps me understand pointer manipulation and memory management, making it an essential resource to understand the class material.
 * [How to view Disks, Partitions and Mount Points in Linux](https://www.youtube.com/watch?v=9i_oZkgd4c8) --- This video offers a step-by-step tutorial on viewing disks, partitions, and mount points in Linux. It helps me navigate and manage storage devices, making it a valuable resource for my operating systems task.
+* [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program/) --- This webpage offers a detailed explanation of the memory layout in C programs. It helps me understand how different segments like stack, heap, and data sections are organized.
+* [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) ---This article provides an insightful overview of Linux memory management, covering key concepts such as virtual memory, paging, and caching. It deepens my understanding of how the Linux kernel efficiently manages system resources.
 <br>
 <br>
 #### REV: Sat 28 Sep 2024 15:25

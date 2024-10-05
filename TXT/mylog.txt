@@ -41,3 +41,9 @@ ZCZC W04 20 L05 Doing Quiz 3
 ZCZC W04 40 L09 Doing Pop-Quiz 4
 ZCZC W04 30 L64 Helping a Friend with their pop quiz setup
 ZCZC W04 80 L32 Understanding how to transfer files from Host system to VM
+ZCZC W05 100 L05 Studying for quiz 4
+ZCZC W05 20 L05 Doing quiz 4
+ZCZC W05 120 L02 Attending Lecture
+ZCZC W05 300 L64 Helping friends with the pop quizzes
+ZCZC W05 120 L15 Doing assignment 5
+ZCCZ W05 80 L24 Solving mymemory2.c script
