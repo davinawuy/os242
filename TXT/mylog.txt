@@ -46,4 +46,11 @@ ZCZC W05 20 L05 Doing quiz 4
 ZCZC W05 120 L02 Attending Lecture
 ZCZC W05 300 L64 Helping friends with the pop quizzes
 ZCZC W05 120 L15 Doing assignment 5
-ZCCZ W05 80 L24 Solving mymemory2.c script
+ZCZC W05 80 L24 Solving mymemory2.c script
+ZCZC W06 80 L02 Attending Lecture
+ZCZC W06 120 L16 Doing assignments for Week06
+ZCZC W06 120 L16 Doing popquiz for Week06
+ZCZC W06 40 L05 Preparing and studying for the quiz
+ZCZC W06 30 L62 Fixing Debian Guest backups
+ZCZC W06 200 L64 Helping a friend with their pop quiz
+ZCZC W06 30 L06 Learning docusaurus

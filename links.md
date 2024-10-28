@@ -17,6 +17,8 @@ permalink: LINKS/
 * [How to view Disks, Partitions and Mount Points in Linux](https://www.youtube.com/watch?v=9i_oZkgd4c8) --- This video offers a step-by-step tutorial on viewing disks, partitions, and mount points in Linux. It helps me navigate and manage storage devices, making it a valuable resource for my operating systems task.
 * [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program/) --- This webpage offers a detailed explanation of the memory layout in C programs. It helps me understand how different segments like stack, heap, and data sections are organized.
 * [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) ---This article provides an insightful overview of Linux memory management, covering key concepts such as virtual memory, paging, and caching. It deepens my understanding of how the Linux kernel efficiently manages system resources.
+* [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) ---This video explains how fork() creates new processes in Linux. It covers the basics of memory handling during process creation. Understanding fork() is essential for managing concurrent tasks in systems programming.
+* [How does forking affect a process's memory layout?](https://unix.stackexchange.com/questions/31407/how-does-forking-affect-a-processs-memory-layout) ---This article explores the impact of fork() on a process’s memory layout. Key topics include virtual memory and Linux resource management. Insights here help clarify how forking optimizes resource use in multitasking environments.
 <br>
 <br>
 #### REV: Sat 28 Sep 2024 15:25
