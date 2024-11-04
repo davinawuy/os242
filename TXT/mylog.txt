@@ -54,3 +54,9 @@ ZCZC W06 40 L05 Preparing and studying for the quiz
 ZCZC W06 30 L62 Fixing Debian Guest backups
 ZCZC W06 200 L64 Helping a friend with their pop quiz
 ZCZC W06 30 L06 Learning docusaurus
+ZCZC W07 90 L06 Doing docusaurus pop-quiz
+ZCZC W07 80 L02 Attending Lecture
+ZCZC W07 120 L17 Doing popquiz for week 7
+ZCZC W07 60 L17 Doing assignment 7
+ZCZC W07 30 L25 Making tarball for the popquiz
+ZCZC W07 70 L05 Preparing for quiz and learning deadlock

@@ -19,7 +19,9 @@ permalink: LINKS/
 * [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) ---This article provides an insightful overview of Linux memory management, covering key concepts such as virtual memory, paging, and caching. It deepens my understanding of how the Linux kernel efficiently manages system resources.
 * [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) ---This video explains how fork() creates new processes in Linux. It covers the basics of memory handling during process creation. Understanding fork() is essential for managing concurrent tasks in systems programming.
 * [How does forking affect a process's memory layout?](https://unix.stackexchange.com/questions/31407/how-does-forking-affect-a-processs-memory-layout) ---This article explores the impact of fork() on a process’s memory layout. Key topics include virtual memory and Linux resource management. Insights here help clarify how forking optimizes resource use in multitasking environments.
+* [L-4.1: DEADLOCK concept](https://www.youtube.com/watch?v=rWFH6PLOIEI) — This video provides an introduction to the concept of deadlock in operating systems, explaining the conditions that lead to deadlocks and approaches to prevent or resolve them.
+* [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&t) — This video by GeeksforGeeks explains deadlock in operating systems, covering conditions, examples, and prevention methods. It’s a useful resource for understanding how operating systems handle resource allocation issues.
 <br>
 <br>
-#### REV: Sat 28 Sep 2024 15:25
+#### REV: Monday 4 Nov 2024 16:45
 <hr>
