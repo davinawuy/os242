@@ -60,3 +60,10 @@ ZCZC W07 120 L17 Doing popquiz for week 7
 ZCZC W07 60 L17 Doing assignment 7
 ZCZC W07 30 L25 Making tarball for the popquiz
 ZCZC W07 70 L05 Preparing for quiz and learning deadlock
+ZCZC W08 300 L18 Doing all assignment components such as setting up LFS
+ZCZC W08 200 L05 Doing all pop quiz
+ZCZC W08 120 L05 Studying for quiz and doing the quiz
+ZCZC W08 20 L40 Doing all TXT files
+ZCZC W08 50 L07 Trying some of the demos
+ZCZC W08 200 L64 Helping a friend troubleshoot thier lfs
+ZCZC W08 20 L62 backing up my debian guest

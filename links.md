@@ -21,7 +21,9 @@ permalink: LINKS/
 * [How does forking affect a process's memory layout?](https://unix.stackexchange.com/questions/31407/how-does-forking-affect-a-processs-memory-layout) ---This article explores the impact of fork() on a process’s memory layout. Key topics include virtual memory and Linux resource management. Insights here help clarify how forking optimizes resource use in multitasking environments.
 * [L-4.1: DEADLOCK concept](https://www.youtube.com/watch?v=rWFH6PLOIEI) — This video provides an introduction to the concept of deadlock in operating systems, explaining the conditions that lead to deadlocks and approaches to prevent or resolve them.
 * [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&t) — This video by GeeksforGeeks explains deadlock in operating systems, covering conditions, examples, and prevention methods. It’s a useful resource for understanding how operating systems handle resource allocation issues.
+* [LFS 10.1 Chapter 4 - Final Preparations](https://www.youtube.com/watch?v=Z3ONQzh7ERc) — This video covers the final preparations needed for Linux From Scratch, providing guidance on setting up essential files, tools, and environment configurations.
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) — A quick overview of the structure and purpose of directories in Linux, explaining the function of each directory in the filesystem hierarchy.
 <br>
 <br>
-#### REV: Monday 4 Nov 2024 16:45
+#### REV: Sunday 10 Nov 2024 23:50
 <hr>
