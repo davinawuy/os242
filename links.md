@@ -23,7 +23,10 @@ permalink: LINKS/
 * [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY&t) — This video by GeeksforGeeks explains deadlock in operating systems, covering conditions, examples, and prevention methods. It’s a useful resource for understanding how operating systems handle resource allocation issues.
 * [LFS 10.1 Chapter 4 - Final Preparations](https://www.youtube.com/watch?v=Z3ONQzh7ERc) — This video covers the final preparations needed for Linux From Scratch, providing guidance on setting up essential files, tools, and environment configurations.
 * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) — A quick overview of the structure and purpose of directories in Linux, explaining the function of each directory in the filesystem hierarchy.
+* [Linux From Scratch (LFS) 12.2 Book - Official Documentation](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) — This is the official guide for Linux From Scratch version 12.2, detailing step-by-step instructions to build your own Linux system from scratch, including setup, toolchain creation, and system configuration.
+* [How Linux is Built (and Why You Should Build Your Own)](https://www.youtube.com/watch?v=HkGJr5BJg5g) — An engaging video explaining the process of building a Linux system, highlighting the educational benefits and customization opportunities that come with creating your own Linux OS from scratch.
+
 <br>
 <br>
-#### REV: Sunday 10 Nov 2024 23:50
+#### REV: Tuesday 19 Nov 2024 16:50
 <hr>
